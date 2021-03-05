@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# https://stackoverflow.com/questions/43221453/jq-group-and-key-by-property
 cd "`dirname "$0"`"
 mkdir -p .tmp
 
